@@ -44,6 +44,8 @@
 		5AF87D3C1711C8E40093DB86 /* MasterViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5AF87D3B1711C8E30093DB86 /* MasterViewCell.xib */; };
 		5AF87D3F1711CA4A0093DB86 /* StarsBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AF87D3D1711CA4A0093DB86 /* StarsBackground.png */; };
 		5AF87D401711CA4A0093DB86 /* StarsForeground.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AF87D3E1711CA4A0093DB86 /* StarsForeground.png */; };
+		CD23E8A41712B98B00475488 /* DetailViewController2ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD23E8A21712B98B00475488 /* DetailViewController2ViewController.m */; };
+		CD23E8A51712B98B00475488 /* DetailViewController2ViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD23E8A31712B98B00475488 /* DetailViewController2ViewController.xib */; };
 		CD5465E6171263220087677C /* RatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = CD5465E5171263220087677C /* RatingView.m */; };
 		CD5465EA17127C6C0087677C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD5465E817127C6C0087677C /* DetailViewController.m */; };
 		CD5465EB17127C6C0087677C /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD5465E917127C6C0087677C /* DetailViewController.xib */; };
@@ -96,6 +98,9 @@
 		5AF87D3B1711C8E30093DB86 /* MasterViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MasterViewCell.xib; sourceTree = "<group>"; };
 		5AF87D3D1711CA4A0093DB86 /* StarsBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StarsBackground.png; sourceTree = "<group>"; };
 		5AF87D3E1711CA4A0093DB86 /* StarsForeground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StarsForeground.png; sourceTree = "<group>"; };
+		CD23E8A11712B98B00475488 /* DetailViewController2ViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController2ViewController.h; sourceTree = "<group>"; };
+		CD23E8A21712B98B00475488 /* DetailViewController2ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController2ViewController.m; sourceTree = "<group>"; };
+		CD23E8A31712B98B00475488 /* DetailViewController2ViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailViewController2ViewController.xib; sourceTree = "<group>"; };
 		CD5465E4171263220087677C /* RatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RatingView.h; sourceTree = "<group>"; };
 		CD5465E5171263220087677C /* RatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RatingView.m; sourceTree = "<group>"; };
 		CD5465E717127C6C0087677C /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
@@ -206,6 +211,9 @@
 				CD5465E717127C6C0087677C /* DetailViewController.h */,
 				CD5465E817127C6C0087677C /* DetailViewController.m */,
 				CD5465E917127C6C0087677C /* DetailViewController.xib */,
+				CD23E8A11712B98B00475488 /* DetailViewController2ViewController.h */,
+				CD23E8A21712B98B00475488 /* DetailViewController2ViewController.m */,
+				CD23E8A31712B98B00475488 /* DetailViewController2ViewController.xib */,
 			);
 			name = ViewController;
 			sourceTree = "<group>";
@@ -325,6 +333,7 @@
 				5AF87D3F1711CA4A0093DB86 /* StarsBackground.png in Resources */,
 				5AF87D401711CA4A0093DB86 /* StarsForeground.png in Resources */,
 				CD5465EB17127C6C0087677C /* DetailViewController.xib in Resources */,
+				CD23E8A51712B98B00475488 /* DetailViewController2ViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -344,6 +353,7 @@
 				5AF87D3A1711C83B0093DB86 /* MasterViewCell.m in Sources */,
 				CD5465E6171263220087677C /* RatingView.m in Sources */,
 				CD5465EA17127C6C0087677C /* DetailViewController.m in Sources */,
+				CD23E8A41712B98B00475488 /* DetailViewController2ViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

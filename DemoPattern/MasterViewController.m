@@ -11,6 +11,7 @@
 #import "MasterViewCell.h"
 #import "Food.h"
 #import "DetailViewController.h"
+#import "DetailViewController2ViewController.h"
 
 @interface MasterViewController ()
 
@@ -21,6 +22,7 @@
     DataManager* data;
     NSMutableArray *_arrData;
     DetailViewController *_detail;
+    DetailViewController2ViewController *_detail2;
     
 }
 - (id)initWithStyle:(UITableViewStyle)style
@@ -128,13 +130,21 @@
 {
     
     Food* food=[_arrData objectAtIndex:indexPath.row];
-    _detail = [[DetailViewController alloc]initWithNibName:@"DetailViewController" bundle:nil];
-    _detail.food = food;
-    _detail.modalPresentationStyle = UIModalPresentationFormSheet;
-    _detail.modalTransitionStyle =UIModalTransitionStyleCrossDissolve;
-    [self presentViewController:_detail animated:YES completion:^{
+//    _detail = [[DetailViewController alloc]initWithNibName:@"DetailViewController" bundle:nil];
+//    _detail.food = food;
+//    _detail.modalPresentationStyle = UIModalPresentationFormSheet;
+//    _detail.modalTransitionStyle =UIModalTransitionStyleCrossDissolve;
+//    [self presentViewController:_detail animated:YES completion:^{
         //
-    }];
+ //   }];
+    _detail2=[[DetailViewController2ViewController alloc]initWithNibName:@"DetailViewController2ViewController" bundle:nil];
+        _detail2.food = food;
+        _detail2.modalPresentationStyle = UIModalPresentationFormSheet;
+        _detail2.modalTransitionStyle =UIModalTransitionStyleCrossDissolve;
+        [self presentViewController:_detail2 animated:YES completion:^{
+    
+       }];
+
     // Navigation logic may go here. Create and push another view controller.
     /*
      ; *detailViewController = [[i alloc] initWithNibName:@";" bundle:nil];
