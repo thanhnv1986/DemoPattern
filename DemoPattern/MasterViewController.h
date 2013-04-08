@@ -9,5 +9,6 @@
 #import <UIKit/UIKit.h>
 
 @interface MasterViewController : UITableViewController
-
+@property (nonatomic) NSString* groupId;
+@property (nonatomic)NSString* header;
 @end

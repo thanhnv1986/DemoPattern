@@ -7,6 +7,7 @@
 //
 
 #import "MasterViewCell.h"
+#import "RatingView.h"
 
 @implementation MasterViewCell
 
@@ -17,6 +18,7 @@
         // Initialization code
         NSArray *arr = [[ NSBundle mainBundle]loadNibNamed:@"MasterViewCell" owner:self options:nil];
         self = [arr objectAtIndex:0];
+        
     }
     return self;
 }

@@ -4,213 +4,228 @@
 <array>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Cocktail 1</string>
 		<key>photo</key>
-		<string></string>
+		<string>cocktail1.jpeg</string>
+        <key>rate</key>
+		<integer>3</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Cocktail 2</string>
 		<key>photo</key>
-		<string></string>
+		<string>cocktail2.jpeg</string>
+        <key>rate</key>
+		<integer>1</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Cocktail 3</string>
 		<key>photo</key>
-		<string></string>
+		<string>cocktail3.jpeg</string>
+        <key>rate</key>
+		<integer>1</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Cocktail 4</string>
 		<key>photo</key>
-		<string></string>
+		<string>cocktail4.jpeg</string>
+        <key>rate</key>
+		<integer>3</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>1</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Cocktail 5</string>
 		<key>photo</key>
-		<string></string>
+		<string>cocktail5.jpeg</string>
+        <key>rate</key>
+		<integer>4</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Coffe 1</string>
 		<key>photo</key>
-		<string></string>
+		<string>coffe1.jpeg</string>
+        <key>rate</key>
+		<integer>3</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Coffe 2</string>
 		<key>photo</key>
-		<string></string>
+		<string>coffe2.jpeg</string>
+        <key>rate</key>
+		<integer>4</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Coffe 3</string>
 		<key>photo</key>
-		<string></string>
+		<string>coffe3.jpeg</string>
+        <key>rate</key>
+		<integer>5</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Coffe 4</string>
 		<key>photo</key>
-		<string></string>
+		<string>coffe4.jpeg</string>
+        <key>rate</key>
+		<integer>2</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>2</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>Coffe 5</string>
 		<key>photo</key>
-		<string></string>
+		<string>coffe5.jpeg</string>
+        <key>rate</key>
+		<integer>3</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>3</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>FastFood 1</string>
 		<key>photo</key>
-		<string></string>
+		<string>fastfood1.jpeg</string>
+        <key>rate</key>
+		<integer>5</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>3</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>FastFood 2</string>
 		<key>photo</key>
-		<string></string>
+		<string>fastfood2.jpeg</string>
+        <key>rate</key>
+		<integer>5</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>3</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>FastFood 3</string>
 		<key>photo</key>
-		<string></string>
+		<string>fastfood3.jpeg</string>
+        <key>rate</key>
+		<integer>2</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>3</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>FastFood 4</string>
 		<key>photo</key>
-		<string></string>
+		<string>fastfood4.jpeg</string>
+        <key>rate</key>
+		<integer>2</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 	<dict>
 		<key>groupId</key>
-		<integer>0</integer>
+		<integer>3</integer>
 		<key>description</key>
 		<string></string>
 		<key>name</key>
-		<string></string>
+		<string>FastFood 5</string>
 		<key>photo</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>groupId</key>
-		<integer>0</integer>
-		<key>description</key>
-		<string></string>
-		<key>name</key>
-		<string></string>
-		<key>photo</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>groupId</key>
-		<integer>0</integer>
-		<key>description</key>
-		<string></string>
-		<key>name</key>
-		<string></string>
-		<key>photo</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>groupId</key>
-		<integer>0</integer>
-		<key>description</key>
-		<string></string>
-		<key>name</key>
-		<string></string>
-		<key>photo</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>groupId</key>
-		<integer>0</integer>
-		<key>description</key>
-		<string></string>
-		<key>name</key>
-		<string></string>
-		<key>photo</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>groupId</key>
-		<integer>0</integer>
-		<key>description</key>
-		<string></string>
-		<key>name</key>
-		<string></string>
-		<key>photo</key>
-		<string></string>
-	</dict>
-	<dict>
-		<key>groupId</key>
-		<integer>0</integer>
-		<key>description</key>
-		<string></string>
-		<key>name</key>
-		<string></string>
-		<key>photo</key>
-		<string></string>
+		<string>fastfood5.jpeg</string>
+        <key>rate</key>
+		<integer>4</integer>
+        <key>description</key>
+        <string>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+
 	</dict>
 </array>
 </plist>

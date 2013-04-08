@@ -9,8 +9,9 @@
 #import <Foundation/Foundation.h>
 
 @interface Food : NSObject
-@property (nonatomic) int groupId;
+@property (nonatomic) NSString *groupId;
 @property (nonatomic) NSString *photo;
 @property (nonatomic) NSString *name;
 @property (nonatomic) NSString *des;
+@property (nonatomic) NSInteger rate;
 @end

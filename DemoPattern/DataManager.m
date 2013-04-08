@@ -7,8 +7,11 @@
 //
 
 #import "DataManager.h"
+#import "Food.h"
 
-@implementation DataManager
+@implementation DataManager{
+    NSMutableArray* _fullList;
+}
 
 #pragma mark Singleton Methods
 //Đừng gọi trực tiếp hàm này
@@ -16,7 +19,18 @@
     if (self = [super init]) {
         //_someProperty = @"Demo Singleton";
         NSString *path = [[NSBundle mainBundle] pathForResource:@"data" ofType:@"plist"];
-        _foodList=[[NSMutableArray alloc]initWithContentsOfFile:path];
+        _fullList=[[NSMutableArray alloc]initWithContentsOfFile:path];
+        _foodList = [[NSMutableArray alloc]init];
+        
+    }
+    for (NSDictionary* d in _fullList){
+        Food* f=[[Food alloc]init];
+        f.name = [d objectForKey:@"name"];
+        f.photo = [d objectForKey:@"photo"];
+        f.groupId = [NSString stringWithFormat:@"%@",[d objectForKey:@"groupId"]];
+        f.rate = ((NSNumber*)[d objectForKey:@"rate"]).intValue;
+        f.des =[NSString stringWithFormat:@"%@",[d objectForKey:@"description"]];
+        [_foodList addObject:f];
     }
     return self;
 }

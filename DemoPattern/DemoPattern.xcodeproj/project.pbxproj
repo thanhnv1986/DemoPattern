@@ -44,6 +44,9 @@
 		5AF87D3C1711C8E40093DB86 /* MasterViewCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5AF87D3B1711C8E30093DB86 /* MasterViewCell.xib */; };
 		5AF87D3F1711CA4A0093DB86 /* StarsBackground.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AF87D3D1711CA4A0093DB86 /* StarsBackground.png */; };
 		5AF87D401711CA4A0093DB86 /* StarsForeground.png in Resources */ = {isa = PBXBuildFile; fileRef = 5AF87D3E1711CA4A0093DB86 /* StarsForeground.png */; };
+		CD5465E6171263220087677C /* RatingView.m in Sources */ = {isa = PBXBuildFile; fileRef = CD5465E5171263220087677C /* RatingView.m */; };
+		CD5465EA17127C6C0087677C /* DetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CD5465E817127C6C0087677C /* DetailViewController.m */; };
+		CD5465EB17127C6C0087677C /* DetailViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = CD5465E917127C6C0087677C /* DetailViewController.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -93,6 +96,11 @@
 		5AF87D3B1711C8E30093DB86 /* MasterViewCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MasterViewCell.xib; sourceTree = "<group>"; };
 		5AF87D3D1711CA4A0093DB86 /* StarsBackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StarsBackground.png; sourceTree = "<group>"; };
 		5AF87D3E1711CA4A0093DB86 /* StarsForeground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StarsForeground.png; sourceTree = "<group>"; };
+		CD5465E4171263220087677C /* RatingView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RatingView.h; sourceTree = "<group>"; };
+		CD5465E5171263220087677C /* RatingView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RatingView.m; sourceTree = "<group>"; };
+		CD5465E717127C6C0087677C /* DetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = DetailViewController.h; sourceTree = "<group>"; };
+		CD5465E817127C6C0087677C /* DetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = DetailViewController.m; sourceTree = "<group>"; };
+		CD5465E917127C6C0087677C /* DetailViewController.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = DetailViewController.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -185,6 +193,8 @@
 		5AF87D051711A4860093DB86 /* ViewController */ = {
 			isa = PBXGroup;
 			children = (
+				CD5465E4171263220087677C /* RatingView.h */,
+				CD5465E5171263220087677C /* RatingView.m */,
 				5AF87CF91711A4710093DB86 /* ViewController.h */,
 				5AF87CFA1711A4710093DB86 /* ViewController.m */,
 				5AF87CFC1711A4710093DB86 /* ViewController.xib */,
@@ -193,6 +203,9 @@
 				5AF87D381711C83B0093DB86 /* MasterViewCell.h */,
 				5AF87D391711C83B0093DB86 /* MasterViewCell.m */,
 				5AF87D3B1711C8E30093DB86 /* MasterViewCell.xib */,
+				CD5465E717127C6C0087677C /* DetailViewController.h */,
+				CD5465E817127C6C0087677C /* DetailViewController.m */,
+				CD5465E917127C6C0087677C /* DetailViewController.xib */,
 			);
 			name = ViewController;
 			sourceTree = "<group>";
@@ -311,6 +324,7 @@
 				5AF87D3C1711C8E40093DB86 /* MasterViewCell.xib in Resources */,
 				5AF87D3F1711CA4A0093DB86 /* StarsBackground.png in Resources */,
 				5AF87D401711CA4A0093DB86 /* StarsForeground.png in Resources */,
+				CD5465EB17127C6C0087677C /* DetailViewController.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -328,6 +342,8 @@
 				5AF87D0D1711C2230093DB86 /* Food.m in Sources */,
 				5AF87D371711C7F80093DB86 /* MasterViewController.m in Sources */,
 				5AF87D3A1711C83B0093DB86 /* MasterViewCell.m in Sources */,
+				CD5465E6171263220087677C /* RatingView.m in Sources */,
+				CD5465EA17127C6C0087677C /* DetailViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -451,6 +467,7 @@
 				5AF87D031711A4710093DB86 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
